@@ -34,4 +34,4 @@ Le travail d'équipe a été déterminant pour résoudre les défis suivants :
 *   **Diagnostic API** : Utilisation de la commande `zabbix_get` pour identifier et corriger les erreurs de configuration entre Zabbix et l'interface Grafana.
 
 ---
-[📄 Consulter le Rapport Pédagogique Complet (PDF)](./Docs2/Rapport pédagogique du projet.pdf)
+[📄 Consulter le Rapport Pédagogique Complet (PDF)](./Docs2/Rapportpédagogiqueduprojet.pdf)
